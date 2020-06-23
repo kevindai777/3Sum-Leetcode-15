@@ -3,6 +3,6 @@
 Leetcode Question 15 (Medium)
 
 Techniques Used in Question:
-Two-Pointers
+Sorting, Two-Pointers
 
 [Link in Question](https://leetcode.com/problems/3sum/)
